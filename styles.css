@@ -1311,7 +1311,7 @@ iframe{
     width: 360px;
     height: 270px;
     border-radius: 24px;
-    background-image: url(./imag/iceland.png);
+    background-image: url(iceland.png);
     background-size: cover;
 }
 
@@ -1329,7 +1329,7 @@ iframe{
     width: 360px;
     height: 270px;
     border-radius: 24px;
-    background-image: url(./imag/finland.png);
+    background-image: url(finland.png);
     background-size: cover;
 }
 
@@ -1347,7 +1347,7 @@ iframe{
     width: 360px;
     height: 270px;
     border-radius: 24px;
-    background-image: url(./imag/norway.png);
+    background-image: url(norway.png);
     background-size: cover;
 }
 
