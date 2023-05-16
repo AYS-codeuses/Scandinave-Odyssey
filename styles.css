@@ -411,7 +411,7 @@ input[type="submit"]:hover{
     width: 480px;
     height: 360px;
     border-radius:20px;
-    background-image: url(./imag/iceland.png);
+    background-image: url(iceland.png);
     background-size: cover;
 }
 
@@ -430,7 +430,7 @@ input[type="submit"]:hover{
     width: 480px;
     height: 360px;
     border-radius:20px;
-    background-image: url(./imag/finland.png);
+    background-image: url(finland.png);
     background-size: cover;
 }
 
@@ -447,7 +447,7 @@ input[type="submit"]:hover{
     width: 480px;
     height: 360px;
     border-radius:20px;
-    background-image: url(./imag/norway.png);
+    background-image: url(norway.png);
     background-size: cover;
 }
 
